@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Riddhi 👋
 
-<!--
-**riddhikazolage/riddhikazolage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 About Me
+I am a **Data Analyst Fresher** based in Maharashtra, India. I specialize in extracting meaningful insights from complex datasets and building predictive machine learning models to solve real-world business problems.
 
-Here are some ideas to get you started:
+- 💼 Open to: Junior Data Analyst, Data Intern, or Business Intelligence roles
+- 🌱 Currently learning: Advanced Machine Learning deployment & automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolkit
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL |
+| **Libraries** | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
+| **BI Tools** | Power BI, MS Excel |
+| **Platforms** | Google Colab, Jupyter Notebook, GitHub |
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. 📈 Customer Churn Prediction Model
+- **What it does:** Built a machine learning model to predict customer churn, analyzing behavior patterns to help businesses improve retention.
+- **Tech Stack:** Python, Pandas, Scikit-Learn, Google Colab
+- **[👉 View Project Repository](https://github.com/riddhikazolage)** *<!-- Update this link later -->*
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Your LinkedIn URL Here]
+- **Email:** ridhizolage143@gmail.com
