@@ -28,5 +28,5 @@ I am a **Data Analyst Fresher** based in Maharashtra, India. I specialize in cle
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** in/riddhikazolage143
+- **LinkedIn:** www.linkedin.com/in/riddhizolage10
 - **Email:** ridhizolage143@gmail.com
