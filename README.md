@@ -23,7 +23,7 @@ I am a **Data Analyst Fresher** based in Maharashtra, India. I specialize in cle
 #### 1. 📈 Customer Churn Prediction Model
 - **What it does:** Built a machine learning model to predict customer churn, analyzing behavior patterns to help businesses improve retention.
 - **Tech Stack:** Python, Pandas, Scikit-Learn, Google Colab
-- **[👉 View Project Repository](https://github.com/riddhikazolage)** *<!-- Update this link later -->*
+- **[👉 View Project Repository](https://github.com/riddhikazolage/Customer-Churn-Prediction)**
 
 ---
 
