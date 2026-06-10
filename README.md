@@ -1,10 +1,10 @@
-# Hi there, I'm Riddhi 👋
+# Hi there, I'm Riddhika 👋
 
 ### 📊 About Me
-I am a **Data Analyst Fresher** based in Maharashtra, India. I specialize in extracting meaningful insights from complex datasets and building predictive machine learning models to solve real-world business problems.
+I am a **Data Analyst Fresher** based in Maharashtra, India. I specialize in cleaning messy datasets, uncovering hidden business trends, and building interactive dashboards that help teams make smart, data-driven decisions.
 
-- 💼 Open to: Junior Data Analyst, Data Intern, or Business Intelligence roles
-- 🌱 Currently learning: Advanced Machine Learning deployment & automation
+- 💼 Open to: Junior Data Analyst, Business Intelligence (BI) Analyst, or Data Intern roles
+- 🌱 Currently learning: Advanced SQL analytics and automated Power BI dashboards
 
 ---
 
@@ -28,5 +28,5 @@ I am a **Data Analyst Fresher** based in Maharashtra, India. I specialize in ext
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn URL Here]
+- **LinkedIn:** in/riddhikazolage143
 - **Email:** ridhizolage143@gmail.com
