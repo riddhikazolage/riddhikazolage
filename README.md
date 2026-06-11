@@ -25,6 +25,19 @@ I am a **Data Analyst Fresher** based in Maharashtra, India. I specialize in cle
 - **Tech Stack:** Python, Pandas, Scikit-Learn, Google Colab
 - **[👉 View Project Repository](https://github.com/riddhikazolage/Customer-Churn-Prediction)**
 
+
+> ### 2.📋 Executive Action Plan & Business Recommendations
+> 
+> * **1. Demographic Target Shift:** Maximize ad-spend ROI by prioritizing male-oriented clothing and accessory collections while introducing specific acquisition funnels to scale female transaction averages.
+> 
+> * **2. Geographic Logistics Allocation:** Prioritize supply chain distribution layers to hubs servicing Montana, Illinois, and California to preserve baseline safety stocks for top-selling products.
+> 
+> * **3. Future Predictive Analytics Scope:** This database framework is structured to easily integrate machine learning models (such as logistic regression) in Python to forecast prospective customer churn thresholds.
+>
+> 🔗 **View Full Code, SQL Queries & Dashboards:** [Click here to see the project](https://github.com/riddhikazolage/customer-shopping-behavior-analysis)
+
+---
+
 ---
 
 ### 📫 Let's Connect!
