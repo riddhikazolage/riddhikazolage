@@ -36,7 +36,7 @@ An end-to-end data analytics project using Excel, Python, PostgreSQL, and Power 
 * **What it does:** Built a machine learning model to predict customer churn, analyzing behavior patterns to help businesses improve retention.
 * **Tech Stack:** Python, Pandas, Scikit-Learn, Google Colab
 
-👉 **View Project Repository:** (https://github.com/riddhikazolage/Customer-Churn-Prediction)
+👉 **View Project Repository:** [Click here to see the full project](https://github.com/riddhikazolage/Customer-Churn-Prediction)
 
 ---
 
